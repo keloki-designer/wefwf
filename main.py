@@ -9,5 +9,6 @@ class Student:
     def walk(self):
         self.distance += 5
 
+
     def __str__(self):
         return self.name
